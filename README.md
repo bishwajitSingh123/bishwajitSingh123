@@ -64,7 +64,7 @@
 
 ## 📬 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/bishwajitSingh123)
+- 💼 [LinkedIn](https://www.linkedin.com/in/bishwajitsingh)
 - 📧 Email: bishwajit.1804@gmail.com
 - 🌐 [GitHub](https://github.com/bishwajitSingh123)
 
