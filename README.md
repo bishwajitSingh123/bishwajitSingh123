@@ -1,74 +1,68 @@
-# 🙏 Namaste! I'm Bishwajit Singh 👋
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/119033266?v=4" width="140px" style="border-radius: 50%;" />
+</p>
 
-🚀 **Aspiring Data Engineer | Azure | PySpark | Delta Lake**  
-🌱 Focused on building real-world, cloud-based ETL pipelines using Microsoft tools.
+<h1 align="center">🙏 Namaste, I'm Bishwajit Singh</h1>
+<h3 align="center">🚀 Aspiring Data Engineer | Azure | PySpark | Delta Lake | ETL Pipelines</h3>
 
 ---
 
-## ⚒️ Skills & Tech Stack
+## ⚒️ Tech Stack & Skills
 
 ### ☁️ Cloud Platforms
 - Azure Data Factory
 - Azure Data Lake Gen2
 - Azure Synapse (Basics)
 - Azure Databricks
-- Azure Storage & IAM
 
 ### 💾 Data Engineering
-- PySpark
-- Delta Lake
+- PySpark, Delta Lake
+- Bronze → Silver → Gold Lakehouse
 - Parquet, CSV, JSON
-- ETL Pipelines
-- Bronze → Silver → Gold Layers
+- ETL, Data Modeling
 
-### 🧠 Programming & Scripting
+### 🧠 Programming
 - Python (Pandas, NumPy)
-- SQL (Joins, Aggregates, Window Functions)
-- Shell Scripting (Basics)
+- SQL (Joins, Aggregations, Window functions)
+- Shell scripting (Basics)
 
-### 🔧 Tools & Platforms
+### 🛠️ Tools
 - Git & GitHub
-- Linux CLI
-- VS Code
 - Databricks Notebook
-- Jupyter
+- VS Code, Jupyter
+- Linux CLI
 
 ---
 
-## 💼 Featured Projects
+## 🚀 My Projects
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🔗 [NYC Yellow Taxi Data Pipeline](https://github.com/bishwajitSingh123/nyc-yellow-taxi-pipeline) | Full Azure Lakehouse pipeline with Bronze → Gold layers | ADF, PySpark, Delta |
-| 🔗 [Azure ETL Pipeline](https://github.com/bishwajitSingh123/Azure_end_to_end-ETL-Pipeline) | End-to-end pipeline using Databricks and Azure Storage | PySpark, Delta, ADF |
-| 🔗 [AdventureWorks Data Engineering](https://github.com/bishwajitSingh123/Adventure-Works-Data-Engineering-Project) | Data warehouse concepts applied on AdventureWorks data | SQL, ETL |
-| 🔗 [Requirement Drive Portal](https://github.com/bishwajitSingh123/requirement-drive-portal) | A Django-based portal with CRUD, Auth | Django, Python, SQLite |
+| Project | Description | Tech Used |
+|--------|-------------|-----------|
+| 🔗 [NYC Yellow Taxi Pipeline](https://github.com/bishwajitSingh123/nyc-yellow-taxi-pipeline) | Full Azure Lakehouse ETL project | ADF, PySpark, Delta |
+| 🔗 [Azure ETL Pipeline](https://github.com/bishwajitSingh123/Azure_end_to_end-ETL-Pipeline) | End-to-end data pipeline with transformations | Databricks, Delta |
+| 🔗 [AdventureWorks DE Project](https://github.com/bishwajitSingh123/Adventure-Works-Data-Engineering-Project) | SQL + ETL concepts on AdventureWorks dataset | SQL, Python |
+| 🔗 [Requirement Drive Portal](https://github.com/bishwajitSingh123/requirement-drive-portal) | Django-based full-stack web app | Django, Python, SQLite |
 
 ---
 
 ## 📜 Certifications
 
-🎖️ Microsoft Certified:  
+🎖️ Microsoft Certified:
 - Azure Fundamentals  
 - Azure Data Fundamentals  
-- Azure Data Engineer (in progress)  
-(See full list: [microsoft-certifications repo](https://github.com/bishwajitSingh123/microsoft-certifications))
+- Azure Data Engineer (In Progress)
+
+🔗 View full badge history → [microsoft-certifications repo](https://github.com/bishwajitSingh123/microsoft-certifications)
 
 ---
 
-## 📈 GitHub Stats
+## 📬 Let's Connect
 
-![Bishwajit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bishwajitSingh123&show_icons=true&theme=midnight-purple)
-
----
-
-## 📬 Connect with Me
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/bishwajitSingh123)
-- 📧 Email: bishwajit.1804@gmail.com
-- 🌐 [GitHub](https://github.com/bishwajitSingh123)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/bishwajitSingh123)
+- 📧 Email: bishwajitsingh1804@gmail.com
+- 💻 GitHub: [bishwajitSingh123](https://github.com/bishwajitSingh123)
 
 ---
 
-_💡 “Jab tak todega nahi, tab tak chhodega nahi!”_  
-🕉️ **Jai Shree Krishna** 🙏
+_🕉️ "Jab tak todega nahi, tab tak chhodega nahi!"_  
+**Jai Shree Krishna Bhai 🙏**
