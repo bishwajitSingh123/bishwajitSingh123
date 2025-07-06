@@ -41,8 +41,8 @@
 |--------|-------------|------|
 | 🔗 [Olympics Data Lakehouse Project](https://github.com/bishwajitSingh123/olympic-data-pipeline) | Ingested, cleaned & aggregated Olympic data using ADF + Databricks in Delta Lake format | ADF, Azure DevOps, PySpark, Delta |
 | 🔗 [NYC Yellow Taxi Data Pipeline](https://github.com/bishwajitSingh123/nyc-yellow-taxi-pipeline) | Full Azure Lakehouse pipeline with Bronze → Gold layers | ADF, PySpark, Delta |
-| 🔗 [Azure ETL Pipeline](https://github.com/bishwajitSingh123/Azure_end_to_end-ETL-Pipeline) | End-to-end pipeline using Databricks and Azure Storage | PySpark, Delta, ADF |
 | 🔗 [AdventureWorks Data Engineering](https://github.com/bishwajitSingh123/Adventure-Works-Data-Engineering-Project) | Data warehouse concepts applied on AdventureWorks data | SQL, ETL |
+| 🔗 [Azure ETL Pipeline](https://github.com/bishwajitSingh123/Azure_end_to_end-ETL-Pipeline) | End-to-end pipeline using Databricks and Azure Storage | PySpark, Delta, ADF |
 | 🔗 [Requirement Drive Portal](https://github.com/bishwajitSingh123/requirement-drive-portal) | A Django-based portal with CRUD, Auth | Django, Python, SQLite |
 
 
