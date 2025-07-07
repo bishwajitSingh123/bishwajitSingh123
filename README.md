@@ -34,7 +34,7 @@
 | [🏅 Olympics Data Lakehouse](https://github.com/bishwajitSingh123/olympic-data-pipeline) | Ingested, cleaned & aggregated Olympic data using ADF & PySpark in Delta Lake format | ADF, Azure DevOps, Databricks, PySpark, Delta |
 | [🚖 NYC Yellow Taxi Pipeline](https://github.com/bishwajitSingh123/nyc-yellow-taxi-pipeline) | Real-time Azure pipeline with Event Hub → Stream Analytics → Databricks → Delta Lake External Tables | Event Hub, Stream Analytics, Key Vault, Databricks, Delta |
 | [📊 AdventureWorks DW](https://github.com/bishwajitSingh123/Adventure-Works-Data-Engineering-Project) | Applied Data Warehousing concepts on AdventureWorks dataset | SQL Server, SSMS, ETL |
-| [☁️ Azure ETL Pipeline](https://github.com/...) | End-to-end ETL from API to Data Lake & Delta using PySpark & ADF | ADF, Databricks, Delta, Blob Storage |
+| [☁️ Azure ETL Pipeline](https://github.com/bishwajitSingh123/azure-etl-weather-pipeline) | End-to-end ETL from Weather API to Data Lake & Delta using PySpark & ADF | ADF, Databricks, Delta, Blob Storage |
 | [🗂️ Requirement Drive Portal](https://github.com/bishwajitSingh123/requirement-drive-portal) | Web app with CRUD, auth, forms using Django | Django, Python, SQLite
 
 ---
@@ -46,7 +46,7 @@
 - Azure Data Fundamentals  
 - *Azure Data Engineer Associate* (In Progress)  
 
-📁 Full list → [microsoft-certifications](https://github.com/...)
+📁 View all badges & proof here → [microsoft-certifications](https://github.com/bishwajitSingh123/microsoft-certifications)
 
 ---
 
