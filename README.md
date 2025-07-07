@@ -1,50 +1,41 @@
-# 🙏 Namaste! I'm Bishwajit Singh 👋
-
-🚀 **Aspiring Data Engineer | Azure | PySpark | Delta Lake**  
-🌱 Focused on building real-world, cloud-based ETL pipelines using Microsoft tools.
+# 🙏 Namaste! I'm Bishwajit Singh 👋  
+🚀 **Aspiring Data Engineer** | Azure | PySpark | Databricks | Delta Lake  
+🌱 Focused on building real-time cloud data pipelines using Microsoft Azure  
+🕉️ Krishna Bhakt on a mission to use Tech for Dharma, Service & Impact
 
 ---
 
 ## ⚒️ Skills & Tech Stack
 
-### ☁️ Cloud Platforms
-- Azure Data Factory
-- Azure Data Lake Gen2
-- Azure Synapse (Basics)
-- Azure Databricks
-- Azure Storage & IAM
+**☁️ Cloud Platforms**  
+- Azure Data Factory, Data Lake Gen2, Databricks, Synapse Analytics (Basics)  
+- Azure Event Hub, Stream Analytics, Azure Key Vault, Blob Storage
 
-### 💾 Data Engineering
-- PySpark
-- Delta Lake
-- Parquet, CSV, JSON
-- ETL Pipelines
-- Bronze → Silver → Gold Layers
+**💾 Data Engineering**  
+- ETL/ELT Pipelines with Bronze → Silver → Gold Layering  
+- Real-time ingestion using Event Hub + Stream Analytics  
+- Delta Lake Tables (Managed & External)  
+- PySpark, Parquet, JSON, CSV
 
-### 🧠 Programming & Scripting
-- Python (Pandas, NumPy)
-- SQL (Joins, Aggregates, Window Functions)
+**🧠 Programming & Scripting**  
+- Python (Pandas, NumPy), SQL (Joins, Window Functions)  
 - Shell Scripting (Basics)
 
-### 🔧 Tools & Platforms
-- Git & GitHub
-- Linux CLI
-- VS Code
-- Databricks Notebook
-- Jupyter
+**🔧 Tools & Platforms**  
+- Git & GitHub, Linux CLI, VS Code  
+- Databricks Notebook, Jupyter Notebook
 
 ---
 
 ## 💼 Featured Projects
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🔗 [Olympics Data Lakehouse Project](https://github.com/bishwajitSingh123/olympic-data-pipeline) | Ingested, cleaned & aggregated Olympic data using ADF + Databricks in Delta Lake format | ADF, Azure DevOps, PySpark, Delta |
-| 🔗 [NYC Yellow Taxi Data Pipeline](https://github.com/bishwajitSingh123/nyc-yellow-taxi-pipeline) | Full Azure Lakehouse pipeline with Bronze → Gold layers | ADF, PySpark, Delta |
-| 🔗 [AdventureWorks Data Engineering](https://github.com/bishwajitSingh123/Adventure-Works-Data-Engineering-Project) | Data warehouse concepts applied on AdventureWorks data | SQL, ETL |
-| 🔗 [Azure ETL Pipeline](https://github.com/bishwajitSingh123/Azure_end_to_end-ETL-Pipeline) | End-to-end pipeline using Databricks and Azure Storage | PySpark, Delta, ADF |
-| 🔗 [Requirement Drive Portal](https://github.com/bishwajitSingh123/requirement-drive-portal) | A Django-based portal with CRUD, Auth | Django, Python, SQLite |
-
+| 🔗 Project | Description | Tech Stack |
+|-----------|-------------|------------|
+| [🏅 Olympics Data Lakehouse](https://github.com/...) | Ingested, cleaned & aggregated Olympic data using ADF & PySpark in Delta Lake format | ADF, Azure DevOps, Databricks, PySpark, Delta |
+| [🚖 NYC Yellow Taxi Pipeline](https://github.com/...) | Real-time Azure pipeline with Event Hub → Stream Analytics → Databricks → Delta Lake External Tables | Event Hub, Stream Analytics, Key Vault, Databricks, Delta |
+| [📊 AdventureWorks DW](https://github.com/...) | Applied Data Warehousing concepts on AdventureWorks dataset | SQL Server, SSMS, ETL |
+| [☁️ Azure ETL Pipeline](https://github.com/...) | End-to-end ETL from API to Data Lake & Delta using PySpark & ADF | ADF, Databricks, Delta, Blob Storage |
+| [🗂️ Requirement Drive Portal](https://github.com/bishwajitSingh123/requirement-drive-portal) | Web app with CRUD, auth, forms using Django | Django, Python, SQLite
 
 ---
 
@@ -53,24 +44,25 @@
 🎖️ Microsoft Certified:  
 - Azure Fundamentals  
 - Azure Data Fundamentals  
-- Azure Data Engineer (in progress)  
-(See full list: [microsoft-certifications repo](https://github.com/bishwajitSingh123/microsoft-certifications))
+- *Azure Data Engineer Associate* (In Progress)  
+
+📁 Full list → [microsoft-certifications](https://github.com/...)
 
 ---
 
 ## 📈 GitHub Stats
 
-![Bishwajit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bishwajitSingh123&show_icons=true&theme=midnight-purple)
+![Bishwajit's GitHub stats](https://github-readme-stats.vercel.app/api?username=bishwajitSingh123&show_icons=true&theme=radical)
 
 ---
 
 ## 📬 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/bishwajitsingh)
-- 📧 Email: bishwajit.1804@gmail.com
-- 🌐 [GitHub](https://github.com/bishwajitSingh123)
+- 💼 [LinkedIn](https://linkedin.com/in/bishwajitsingh)  
+- 📧 Email: bishwajit.1804@gmail.com  
+- 🌐 [GitHub Profile](https://github.com/bishwajitSingh123)
 
 ---
 
-_💡 “Jab tak todega nahi, tab tak chhodega nahi!”_  
-🕉️ **Jai Shree Krishna** 🙏
+> 💡 *"Jab tak todega nahi, tab tak chhodega nahi!"*  
+> 🕉️ *Jai Jai Shree Krishna!* 🙏
