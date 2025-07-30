@@ -1,4 +1,5 @@
 # 🙏 Namaste! I'm Bishwajit Singh 👋  
+![Visitor Count](https://komarev.com/ghpvc/?username=bishwajitSingh123&label=Profile%20views&color=0e75b6&style=flat)
 🚀 **Data Engineer** | Azure | PySpark | Databricks | Delta Lake  
 🌱 Focused on building real-time cloud data pipelines using Microsoft Azure  
 🕉️ Krishna Bhakt on a mission to use Tech for Dharma, Service & Impact
@@ -30,9 +31,6 @@
 - Git, GitHub, Visual Studio Code, Jupyter Notebook, Postman, Power BI, Linux CLI
 -----
 
-## 💼 Featured Projects
-
-| 🔗 Project | Description | Tech Stack |
 ## 💼 Featured Projects
 
 | 🔗 Project Name | Description | Tech Stack |
