@@ -63,7 +63,7 @@
 ---
 
 ## 📬 Connect with Me
-
+Feel free to connect for collaborations or Data Engineering projects!
 - 💼 [LinkedIn](https://linkedin.com/in/bishwajitsingh)  
 - 📧 Email: bishwajit.1804@gmail.com  
 - 🌐 [GitHub Profile](https://github.com/bishwajitSingh123)
