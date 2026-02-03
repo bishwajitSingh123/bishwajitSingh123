@@ -1,6 +1,5 @@
 
-Here's Version 1 enhanced for maximum recruiter/hiring manager impact:
-markdown# 👋 Bishwajit Singh | AI/ML Engineer
+# 👋 Bishwajit Singh | AI/ML Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/bishwajit-singh)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bishwajit.1804@gmail.com)
